@@ -21,22 +21,6 @@ The portfolio is built using **clean, semantic HTML5 and modern CSS3 (Flexbox/Gr
 
 ---
 
-## 💻 Projects Featured
-
-### 1. Personal Portfolio Website
-* **Description:** The responsive, single-page professional portfolio you are currently viewing.
-* **Focus:** Demonstrated ability to build a robust, custom frontend layout without reliance on frameworks, ensuring high control over styling and structure.
-* **Tech Highlight:** CSS Flexbox and Grid for complex, adaptive layouts.
-
-### 2. Child Safety Monitoring System (IoT)
-* **Description:** A real-time system utilizing an ESP32 microcontroller for GPS tracking and physiological data monitoring.
-* **Focus:** Embedded C programming, understanding IoT protocols (MQTT), and system integration.
-
-### 3. Console-Based Food Ordering App
-* **Description:** A command-line application developed in Java to handle menu display, order processing, and bill generation.
-* **Focus:** Core Java programming fundamentals, modular logic design, and robust use of control statements.
-
----
 
 ## 📁 Repository Structure
 
